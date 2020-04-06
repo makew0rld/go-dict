@@ -1,6 +1,9 @@
 # go-dict
-`go-dict` is a commandline tool to lookup words in the commandline.
+`go-dict` is a commandline tool to lookup words.
+It uses [Wordnik](https://www.wordnik.com), and is my first Go project.
+
 Here is some example output (cropped):
+
 ![terminal screenshot](./scrot.png)
 
 ## Install
